@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Todos</title>
+    <title>Aufgabenplaner: Todos (Aktuelles Projekt)</title>
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@4.5.3/dist/css/bootstrap.min.css">
 </head>
 
@@ -18,32 +18,32 @@
             <div class="col-md-2">
                 <ul class="list-group">
                     <li class="list-group-item">
-                        <a href=""> Login </a>
+                        <a href="Login.php"> Login </a>
                     </li>
 
                     <li class="list-group-item">
-                        <a href=""> Projekte </a>
+                        <a href="Projekte.php"> Projekte </a>
                     </li>
 
                     <li class="list-group-item">
-                        <a href=""> Aktuelles Projekt </a>
+                        <a href="Todos.php"> Aktuelles Projekt </a>
                     </li>
 
                     <div style="padding-left: 2em">
                         <li class="list-group-item">
-                            <a href=""> Aufgaben </a>
+                            <a href="Aufgaben.php"> Aufgaben </a>
                         </li>
                     </div>
 
                     <div style="padding-left: 2em">
                         <li class="list-group-item">
-                            <a href=""> Reiter </a>
+                            <a href="Reiter.php"> Reiter </a>
                         </li>
                     </div>
 
                     <div style="padding-left: 2em">
                         <li class="list-group-item">
-                            <a href=""> Personen </a>
+                            <a href="Personen.php"> Personen </a>
                         </li>
                     </div>
                 </ul>
