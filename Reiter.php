@@ -132,9 +132,8 @@
                     <input type="text" class="form-control" placeholder="Reiter">
                 </div>
                 <div class="form-group">
-                    <label>Beschreibung:</label>
-                    <textarea class="form-control" placeholder="Beschreibung" rows="3">
-                    </textarea>
+                    <label for="exampleFormControlTextarea1">Beschreibung der Aufgabe:</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Beschreibung" rows="3"></textarea>
                 </div>
                 <div class="form-group">
                     <button type="submit" class="btn btn-primary">Speichern</button>
