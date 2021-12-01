@@ -4,13 +4,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Aufgabenplaner: Reiter</title>
+    <title>Aufgabenplaner: Aufgaben</title>
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@4.5.3/dist/css/bootstrap.min.css">
 </head>
 <body>
 <div class="container-fluid">
     <header class="jumbotron">
-        <center><h1> Aufgabenplaner: Reiter</h1></center>
+        <center><h1> Aufgabenplaner: Aufgaben/h1></center>
     </header>
     <div class="row">
         <div class="col-md-2">
